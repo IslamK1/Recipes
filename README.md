@@ -1,1 +1,1 @@
-# recipes
+This simple project just gives recipes and tests my HTML skills
